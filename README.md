@@ -8,13 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on blog website 
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on fullstack blog website 
+- 🌱 I’m currently learning React redux
 - 👯 I’m looking to collaborate on nice projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML,CSS,JavaScript,ReactJs,Python,Django
-- 📫 How to reach me: 08133433956
-- 😄 Pronouns: ...
+- 📫 How to reach me: Adesinamariam&@gmail.com
 - ⚡ Fun fact: I enjoy coding in condusive environment
 
 
@@ -49,8 +47,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/RealMinTech">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praisegee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praisegee&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realmintech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realmintech&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
@@ -65,8 +63,8 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/RealMinTech/"><img src="https://img.shields.io/badge/-realmintech%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariam-adesina-temitope/"><img src="https://img.shields.io/badge/-realmintech%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adesinamariam7@gmail.com"><img src="https://img.shields.io/badge/-adesinamariam7@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.twitter.com/adesinamariam/"><img src="https://img.shields.io/badge/-@adesinamariam-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.x.com/Adesina20638088/"><img src="https://img.shields.io/badge/-@adesina20638088-E4405F?style=flat&logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/adesina.mariam.temitope/"><img src="https://img.shields.io/badge/-@adesina.mariam-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
