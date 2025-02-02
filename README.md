@@ -8,11 +8,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on fullstack blog website 
+- 🔭 I’m currently working on fullstack blog website
+- ✨ I'm currently a HNG intern
 - 🌱 I’m currently learning React redux
 - 👯 I’m looking to collaborate on nice projects
-- 💬 Ask me about HTML,CSS,JavaScript,ReactJs,Python,Django
-- 📫 How to reach me: Adesinamariam&@gmail.com
+- 💬 Ask me about HTML,CSS,JavaScript,ReactJs,Python,Django, Nodejs, MongoDB
+- 📫 How to reach me: Adesinamariam7@gmail.com
 - ⚡ Fun fact: I enjoy coding in condusive environment
 
 
